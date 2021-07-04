@@ -1,12 +1,31 @@
-site_name: Poradnik Obozowania Wędrownego
+site_name: Poradnik biwakowania i wędrowania w terenie
+nav:
+  - 'index.md'
+  - 'Planowanie.md'
+  - 'Przygotowanie.md'
+  - 'Wtrakciewypoczynku.md'
+  - 'Podsumowanie.md'
+  - 'Materiały.md'
 theme:
   name: material
+  font:
+    text: Roboto
   language: pl
   icon:
     logo: material/nature
   palette:
     primary: green
     accent: light green
-
-extra_css:
-  - /stylesheets/extra.css
+  plugins:
+    - search:
+        lang: en
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - toc:
+      permalink: true
+      #extra_css:
+  #- /stylesheets/extra.css
+  #

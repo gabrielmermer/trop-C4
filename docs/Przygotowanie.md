@@ -71,3 +71,7 @@ Jest to zdecydowanie jeden z większych problemów na trasie. Przed wyjazdem war
 ### Program 
 
 Zaplanujcie tak program, żeby ograniczyć materiałówkę programową do minimum. Do realizacji zadań programowych wykorzystajcie służbę, mijane atrakcje turystyczne i to co was otacza na wędrówce np. kamienie, liście (zgodnie z zasadami leave no trace).
+
+
+[wstecz](/Planowanie){ .md-button }
+[dalej  :fontawesome-solid-arrow-right:](/Wtrakciewypoczynku){ .md-button .md-button--primary }

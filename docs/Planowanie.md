@@ -129,3 +129,6 @@ Inną ciekawą opcją do dokonania analizy na odległość są różne grupy na 
  
 
 Starajcie się wpleść w wasze działania instrumenty metodyczne: sprawności, znaki służb, zadania zespołowe, projekty starszoharcerskie.
+
+[wstecz](/){ .md-button }
+[dalej  :fontawesome-solid-arrow-right:](/Przygotowanie){ .md-button .md-button--primary }

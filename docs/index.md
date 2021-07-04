@@ -25,5 +25,8 @@ Poradnik, który właśnie czytacie, to zbiór  przemyśleń i doświadczeń, kt
 Choć w większości podajemy przykłady z organizacji obozu wędrownego, to z poradnika możecie korzystać niezależnie od metodyki, w której działacie i stylu pracy waszej jednostki. Wszystkie porady  są w gruncie rzeczy uniwersalne i można je dopasować do każdej formy zajęć i wypoczynku  w naturze. 
 
 
+![Wędrówka z plecakami](assets/images/image15.jpg){ loading=lazy }
+![Wędrówka z plecakami](images/image15.jpg)
+
 [wstecz](/Planowanie){ .md-button }
 [dalej  :fontawesome-solid-arrow-right:](/Planowanie){ .md-button .md-button--primary }

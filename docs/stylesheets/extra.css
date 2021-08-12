@@ -15,4 +15,12 @@
 .md-footer {
 	visibility: hidden;
 }
+.headerlink {
+	/* display: none; */
+	visibility: hidden;
+}
 
+.headerlink:before {
+	content: "<";
+	visibility: visible;
+}

@@ -15,17 +15,17 @@ theme:
     #logo: fas/solid/tree
     logo: fontawesome/solid/tree
   palette:
-    - scheme: default
-      primary: green
-      accent: light green
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
     - scheme: slate
       primary: green
       accent: light green
       toggle:
-        icon: material/toggle-switch
+        icon: material/eye-outline
+        name: Switch to dark mode
+    - scheme: default
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/eye
         name: Switch to light mode
           #primary: green
           #accent: light green
@@ -39,7 +39,7 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - toc:
       permalink: true
-        #extra_css:
+extra_css:
     # - /stylesheets/new.css
-  #- /stylesheets/extra.css
+  - /stylesheets/extra.css
   

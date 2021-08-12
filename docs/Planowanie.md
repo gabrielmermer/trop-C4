@@ -1,6 +1,6 @@
 # Planowanie
 
-Planowanie jest etapem pełnym podejmowania decyzji i poszukiwania odpowiedzi na wiele pytań. Ważne jest to, żeby spodziewać się niespodziewanego. Jeśli, więc chcecie, żeby wasz wyjazd był przyjemny i ekologiczny, pierwszym krokiem, jaki powinniście zrobić będzie zapoznanie się z zasadami ‘leave no trace’. Na stronie [zhp.pl](https://specjalnosci.zhp.pl/specjalnosci-harcerskie/ekologiczna/7-zasad-leave-no-trace/) jest napisane, że "7 Zasad LNT to zbiór prostych wytycznych, które pozwalają nam pamiętać o sprawach mniej lub bardziej oczywistych, tak, by nasze korzystanie ze środowiska naturalnego odbywało się z jak najmniejszą dla niego szkodą." Jest wiele stron opisujących założenia tego projektu opracowanego w latach 70-tych przez United States Forest Service (Amerykańską Służbę Leśną). Warto również odwiedzić stronę redagowaną po angielsku: [The Leave No Trace Center for Outdoor Ethics](https://lnt.org/). 
+Planowanie jest etapem pełnym podejmowania decyzji i poszukiwania odpowiedzi na wiele pytań. Ważne jest to, żeby spodziewać się niespodziewanego. Jeśli, więc chcecie, żeby wasz wyjazd był przyjemny i ekologiczny, pierwszym krokiem, jaki powinniście zrobić będzie zapoznanie się z zasadami ‘leave no trace’. Na stronie [zhp.pl](https://specjalnosci.zhp.pl/specjalnosci-harcerskie/ekologiczna/7-zasad-leave-no-trace/){target=_blank} jest napisane, że "7 Zasad LNT to zbiór prostych wytycznych, które pozwalają nam pamiętać o sprawach mniej lub bardziej oczywistych, tak, by nasze korzystanie ze środowiska naturalnego odbywało się z jak najmniejszą dla niego szkodą." Jest wiele stron opisujących założenia tego projektu opracowanego w latach 70-tych przez United States Forest Service (Amerykańską Służbę Leśną). Warto również odwiedzić stronę redagowaną po angielsku: [The Leave No Trace Center for Outdoor Ethics](https://lnt.org/){target=_blank}. 
 
 Najlepiej zacząć planowanie od podziału obowiązków tak, aby nikogo nie przeciążyć pracą, i żeby każdy czuł się potrzebny. Dążcie do prostoty i nie zagłębiajcie się w zawiłe szczegóły, aby nie przekroczyć własnych umiejętności logistycznych. Elastyczność i otwartość na różne rozwiązania odegrają tutaj największą rolę.
 
@@ -38,7 +38,7 @@ W momencie, gdy podjeżdżacie samochodem lub autokarem do początku trasy nie n
 
 Autostop powinien być ostatecznością, bo jest to naprawdę szkoła cierpliwości, sztuka przekonywania zależna od miejsca gdzie się stoi, a poza tym podróży autostopem nie da się zaplanować. Jakby nie patrzeć taka przygoda niesie ze sobą też pewne niebezpieczeństwo.
 
-Planując wasz wyjazd spróbujcie ograniczyć teren do minimum, wypisać sobie najważniejsze punkty komunikacyjne na tym terenie i znaleźć najlepsze połączenia z waszym miejscem zamieszkania. Pamiętajcie tutaj też o tym, żeby możliwie zmniejszać ślad węglowy np. podróż pociągiem emituje dwukrotnie mniej dwutlenku węgla na kilometr niż autokar ([Policzmy swój ślad](https://post-turysta.pl/artykul/policzmy-swoj-slad))
+Planując wasz wyjazd spróbujcie ograniczyć teren do minimum, wypisać sobie najważniejsze punkty komunikacyjne na tym terenie i znaleźć najlepsze połączenia z waszym miejscem zamieszkania. Pamiętajcie tutaj też o tym, żeby możliwie zmniejszać ślad węglowy np. podróż pociągiem emituje dwukrotnie mniej dwutlenku węgla na kilometr niż autokar [Policzmy swój ślad](https://post-turysta.pl/artykul/policzmy-swoj-slad){target=_blank}
 
 ### Atrakcje
 
@@ -50,15 +50,15 @@ Na podstawie wszystkich zdobytych wcześniej informacji powinniście wybrać tra
 
 Dostosujcie trudność trasy do waszych umiejętności i warunków pogodowych. Jest wiele stron z przydatnymi w tym momencie planowania informacjami, porównajcie opinie i przeanalizujcie wyniki. 
 
-Fajną strona do planowania trasy jest [Mapa Turystyczna](https://mapa-turystyczna.pl/). Pokazuje szlaki piesze w polskich górach, dokładny opis trasy, wypisany punkt po punkcie, niektóre charakterystyczne miejsca ze zdjęciami, czas trwania przemarszu i profil wysokości (pomoże również ocenić trudność trasy). Pomocne są również bardziej powszechne mapy: Google Maps z widokiem satelitarnym i Google Earth (pokazuje wysokość n.p.m. i pozwala stworzyć, i zapisać cały projekt trasy w formacie kml, a dzięki temu można go udostępnić innym do edycji). Polecamy też: 
+Fajną strona do planowania trasy jest [Mapa Turystyczna](https://mapa-turystyczna.pl/){target=_blank}. Pokazuje szlaki piesze w polskich górach, dokładny opis trasy, wypisany punkt po punkcie, niektóre charakterystyczne miejsca ze zdjęciami, czas trwania przemarszu i profil wysokości (pomoże również ocenić trudność trasy). Pomocne są również bardziej powszechne mapy: Google Maps z widokiem satelitarnym i Google Earth (pokazuje wysokość n.p.m. i pozwala stworzyć, i zapisać cały projekt trasy w formacie kml, a dzięki temu można go udostępnić innym do edycji). Polecamy też: 
 
-[Map Meurisse](https://map.meurisse.org) (mierzy dystans, nawet tam gdzie teoretycznie nie ma ścieżek, jest więc bardziej przydatny niż Google Maps, korzysta z [OpenStreet Map](http://www.openstreetmap.org)); 
+[Map Meurisse](https://map.meurisse.org){target=_blank} (mierzy dystans, nawet tam gdzie teoretycznie nie ma ścieżek, jest więc bardziej przydatny niż Google Maps, korzysta z [OpenStreet Map](http://www.openstreetmap.org){target=_blank}); 
 
-[Mapy Geoportal](https://mapy.geoportal.gov.pl/) [(jedna z największych baz z mapami w Internecie, znajdziecie tam przeróżne rodzaje map, od samochodowych po plany zagospodarowania przestrzennego)](https://mapy.geoportal.gov.pl/) 
+[Mapy Geoportal](https://mapy.geoportal.gov.pl/){target=_blank} (jedna z największych baz z mapami w Internecie, znajdziecie tam przeróżne rodzaje map, od samochodowych po plany zagospodarowania przestrzennego)
 
-[Bank Danych o Lasach](https://www.bdl.lasy.gov.pl/portal/mapy) (obszary leśne, obszary chronionej przyrody, miejsca ogniskowe i miejsca legalnego biwakowania na terenie Lasów Państwowych)
+[Bank Danych o Lasach](https://www.bdl.lasy.gov.pl/portal/mapy){target=_blank} (obszary leśne, obszary chronionej przyrody, miejsca ogniskowe i miejsca legalnego biwakowania na terenie Lasów Państwowych)
 
-[Kalkulator szlaków](https://www.szlaki.net.pl/kalkulator.php) (do obliczania czasu przemarszu w górach, pokazuje dostępne szlaki w polskich górach i na pogórzu, wykres wysokości, odległości, zdjęcia z trasy, schroniska).
+[Kalkulator szlaków](https://www.szlaki.net.pl/kalkulator.php){target=_blank} (do obliczania czasu przemarszu w górach, pokazuje dostępne szlaki w polskich górach i na pogórzu, wykres wysokości, odległości, zdjęcia z trasy, schroniska).
 
 ### Sklepy i noclegi
 
@@ -98,7 +98,7 @@ Pamiętajcie, żeby planować posiłki proste w przygotowaniu, niewymagające u�
 
 Zakupy na trasie zaplanujcie względem dostępnych w okolicy sklepów spożywczych.
 
-W planowaniu zrównoważonego jadłospisu na wędrówkę/biwak/obóz w terenie pomoże Wam filmik po angielsku → [Link](https://www.youtube.com/watch?v=iqgayipoNWA) , w którym na podstawie badań naukowych określono zapotrzebowanie na białka, tłuszcze, węglowodany, a nawet na wodę i elektrolity przeciętnego piechura! W opisie filmu znajdziecie też tabelę z listą około 1000 propozycji potraw na wędrówkę z plecakiem.
+W planowaniu zrównoważonego jadłospisu na wędrówkę/biwak/obóz w terenie pomoże Wam filmik po angielsku → [Link](https://www.youtube.com/watch?v=iqgayipoNWA){target=_blank} , w którym na podstawie badań naukowych określono zapotrzebowanie na białka, tłuszcze, węglowodany, a nawet na wodę i elektrolity przeciętnego piechura! W opisie filmu znajdziecie też tabelę z listą około 1000 propozycji potraw na wędrówkę z plecakiem.
 
 ### Obiady
 

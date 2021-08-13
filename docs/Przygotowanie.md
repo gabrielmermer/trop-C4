@@ -1,3 +1,5 @@
+![ekwipunek na podłodze](images/image9.png){ loading=lazy }
+
 # Przygotowanie 
 
 To co zabieracie ze sobą na obóz/biwak w dużej mierze zależy od tego, gdzie jedziecie, o jakiej porze roku i na jaki czas. W tej części jednak przygotowaliśmy kilka uniwersalnych porad, które mogą się przydać niezależnie od wymienionych czynników. Szczególnie powinno Wam zależeć na przygotowaniu ekwipunku na wyjazd, tak aby plecak nie był za ciężki - zgodnie z myślą *ultra light,* a jednocześnie aby mieć ze sobą wszystko co jest niezbędne. Należy też skupić się  na tym, aby to co ze sobą zabieracie miało jak najmniejszy wpływ na środowisko naturalne.
@@ -74,4 +76,4 @@ Zaplanujcie tak program, żeby ograniczyć materiałówkę programową do minimu
 
 
 [wstecz](/Planowanie){ .md-button }
-[dalej  :fontawesome-solid-arrow-right:](/Wtrakciewypoczynku){ .md-button .md-button--primary }
+[dalej  :fontawesome-solid-arrow-right:](/Wedrowanie){ .md-button .md-button--primary }

@@ -1,6 +1,6 @@
 site_name: Poradnik biwakowania i wędrowania w terenie
 nav:
-  - Wstęp: 'index.md'
+  - 'index.md'
   - Planowanie: 'Planowanie.md'
   - Przygotowanie: 'Przygotowanie.md'
   - Wędrowanie: 'Wedrowanie.md'
@@ -44,4 +44,9 @@ markdown_extensions:
 extra_css:
     # - /stylesheets/new.css
   - /stylesheets/extra.css
+
+extra:
+  analytics:
+    provider: google
+    property: G-1NCLEFZMCY
   

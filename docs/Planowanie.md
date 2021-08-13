@@ -1,3 +1,4 @@
+![mapa i przybory na stole](images/image3.png){ loading=lazy }
 # Planowanie
 
 Planowanie jest etapem pełnym podejmowania decyzji i poszukiwania odpowiedzi na wiele pytań. Ważne jest to, żeby spodziewać się niespodziewanego. Jeśli, więc chcecie, żeby wasz wyjazd był przyjemny i ekologiczny, pierwszym krokiem, jaki powinniście zrobić będzie zapoznanie się z zasadami ‘leave no trace’. Na stronie [zhp.pl](https://specjalnosci.zhp.pl/specjalnosci-harcerskie/ekologiczna/7-zasad-leave-no-trace/){target=_blank} jest napisane, że "7 Zasad LNT to zbiór prostych wytycznych, które pozwalają nam pamiętać o sprawach mniej lub bardziej oczywistych, tak, by nasze korzystanie ze środowiska naturalnego odbywało się z jak najmniejszą dla niego szkodą." Jest wiele stron opisujących założenia tego projektu opracowanego w latach 70-tych przez United States Forest Service (Amerykańską Służbę Leśną). Warto również odwiedzić stronę redagowaną po angielsku: [The Leave No Trace Center for Outdoor Ethics](https://lnt.org/){target=_blank}. 
@@ -40,11 +41,22 @@ Autostop powinien być ostatecznością, bo jest to naprawdę szkoła cierpliwo�
 
 Planując wasz wyjazd spróbujcie ograniczyć teren do minimum, wypisać sobie najważniejsze punkty komunikacyjne na tym terenie i znaleźć najlepsze połączenia z waszym miejscem zamieszkania. Pamiętajcie tutaj też o tym, żeby możliwie zmniejszać ślad węglowy np. podróż pociągiem emituje dwukrotnie mniej dwutlenku węgla na kilometr niż autokar [Policzmy swój ślad](https://post-turysta.pl/artykul/policzmy-swoj-slad){target=_blank}
 
+
+
+
 ### Atrakcje
+
+![drewniany kościół](images/image13.png){ loading=lazy }
 
 Po określeniu punktów początkowych i końcowych możliwych tras, zorientujcie się, jakie ciekawe miejsca (turystyczne i krajoznawcze) znajdują się pomiędzy startem, a metą oraz, które z nich szczególnie przypadają Wam do gustu.
 
+
+
+
+
 ### Szlak
+
+![mapa papierowa](images/image14.png){ loading=lazy }
 
 Na podstawie wszystkich zdobytych wcześniej informacji powinniście wybrać trasę i konkretny termin wyprawy. Analizując dokładny przebieg trasy można podzielić ją na odcinki i stworzyć trasy alternatywne (dłuższe, krótsze, bardziej wymagające i łatwiejsze) tak, aby na wyjeździe można było dokonać szybkich modyfikacji względem potrzeb i możliwości fizycznych grupy.
 
@@ -62,9 +74,13 @@ Fajną strona do planowania trasy jest [Mapa Turystyczna](https://mapa-turystycz
 
 ### Sklepy i noclegi
 
+![znak campingu](images/image2.png){ loading=lazy }
+
 Kolejna seria pytań pomocniczych pozwoli Wam skupić się na szczegółach logistycznych wyjazdu: Ile nocy chcecie przespać na dziko, a ile na kempingach lub w schroniskach? Kiedy chcecie się umyć i zrobić pranie?  Czy uda się wam logistycznie rozplanować trasę tak, aby często mieć dostęp do sanitariatów? Które sklepy pasują wam bardziej czasowo? Czy zdążycie pójść do danego sklepu mając dwugodzinną przerwę na obiad? Kiedy trzeba będzie zrobić większy zapas jedzenia i wody pitnej? Wypiszcie wszystkie sklepy i noclegi na trasie, od razu z adresem i podaniem kontaktu telefonicznego, jeśli to możliwe. Przydadzą się też linki do stron, cennik i itp.
 
 ### Woda na trasie
+
+![rzeka](images/image12.png){ loading=lazy }
 
 Woda będzie dla was niezbędnym surowcem do picia, do prania ubrań, do umycia się z kurzu i potu wędrówki, itp. Jak ciężko będzie znaleźć wodę w trakcie waszej trasy? Zawsze można wziąć ją z kranu w schronisku i skorzystać z filtra węglowego, można też zajść do gospodarstwa po drodze i poprosić o uzupełnienie butelki lub zwyczajnie kupić kolejną w sklepie, ale nie o to chodzi w nurcie *zero waste*. Dokładne sprawdzenie trasy pod kątem zbiorników wodnych daje wam możliwość uzupełnienia zasobów nawet w środku lasu przy pomocy odpowiednich filtrów (przykłady znajdziecie w części *"w trakcie wędrówki"*). Pamiętajcie, że wodę można spożywać jedynie ze sprawdzonych źródeł, nie zaleca się spożywania wody nawet z krystalicznie czystych górskich potoków, jedynie w przypadku wyższej konieczności możecie rozważyć taką opcję, po upewnieniu się, że jesteście blisko źródła, a dany ciek jest położony z dala od terenów zamieszkałych i eksploatowanych przez człowieka (nawet wtedy powinniście użyć podstawowych filtrów do uzdatniania wody).
 Warto wcześniej oszacować średnie zużycie wody przez grupę i  ocenić ewentualne zapotrzebowanie. 
@@ -79,15 +95,21 @@ Mapy bardzo dynamicznie ulegają zmianom, zwłaszcza w przebiegu szlaków turyst
 
 ## Bezpieczeństwo
 
+![osoby przechodzące rzekę w brud](images/image11.png){ loading=lazy }
+
 Pomyślcie o zagrożeniach czyhających na Was na trasie i jak się przed nimi chronić. Przykłady zagrożeń w Polsce: osuwiska skalne/ziemne na szlaku, zagrożenie lawinowe, dzikie zwierzęta (niedźwiedzie, wilki, rysie, żmije, itp.), sezonowa wycinka drzew, szlak wymaga przeprawienia się w bród przez rzekę, strome podejścia w górach, burze i inne zjawiska pogodowe, od niedawna powszechnym problemem jest też sytuacja epidemiologiczna.
 
 Starajcie się przewidywać potencjalne zagrożenia już na etapie planowania wędrówki, skorzystajcie z portali, które na bieżąco informują o aktualnej sytuacji na danym terenie np. Informacja Turystyczna; Parki Narodowe i Krajobrazowe; odpowiednie służby (TOPR, GOPR, WOPR, itp.) Poinformujcie kogoś o dokładnym planie wędrówki i alternatywnych trasach, zostawcie kontakt telefoniczny do siebie (minimum 2 różne numery tel.). Pamiętajcie, że w przypadku wyjazdu zagranicznego musicie zwrócić szczególną uwagę na sytuację polityczną w kraju, do którego się wybieracie i przyjąć wszystkie obowiązkowe szczepienia.
 
 ## Przyroda
 
+![piorun na niebie](images/image7.png){ loading=lazy }
+
 Jako harcerze, chcemy chronić przyrodę i trochę ją poznawać, dlatego warto znaleźć lub stworzyć zbiór informacji o tym, jakie gatunki zwierząt i roślin możecie spotkać na trasie waszej wędrówki. Informacje te pomogą wam określić miejsca, w których będziecie musieli zachować szczególną ostrożność, żeby nie narazić na szwank lokalnej fauny i flory, zwłaszcza tej chronionej, oraz zidentyfikować dany gatunek, który zaobserwujecie w trakcie wędrowania.
 
 ## Jedzenie
+
+![gotowanie na kuchence polowej](images/image4.png){ loading=lazy }
 
 ### Planowanie posiłków
 

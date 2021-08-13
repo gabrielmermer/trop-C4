@@ -1,4 +1,4 @@
-.md-nav.md-nav--primary {
+/* .md-nav.md-nav--primary {
 	visibility: hidden;
 }
 
@@ -9,6 +9,18 @@
 .md-header__button.md-icon {
 
 	visibility: hidden;
+} */
+
+
+.md-footer {
+	visibility: hidden;
+}
+.headerlink {
+	/* display: none; */
+	visibility: hidden;
 }
 
-
+.headerlink:before {
+	content: "<";
+	visibility: visible;
+}

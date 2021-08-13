@@ -1,3 +1,5 @@
+![góry](images/image17.png){ loading=lazy }
+
 # Podsumowanie
 
 Mamy nadzieję, że choć częściowo skorzystacie z naszych porad i doświadczeń, ale liczymy też, że pomożecie nam współtworzyć ten poradnik, przesyłając do nas wasze osobiste wnioski i przemyślenia dotyczące biwakowania i wędrowania w terenie! 

@@ -1,6 +1,10 @@
-# Wstęp
+![Wędrówka z plecakami](images/image10.png){ loading=lazy }
 
-## Dlaczego wędrować i biwakować w sposób ekologiczny?
+<!-- # Wstęp -->
+
+# Dlaczego warto wędrować i biwakować w sposób ekologiczny?
+
+
 
 Każdy z nas, harcerzy pragnie przeżywać przygody na łonie natury. Chcemy ją poznawać, cieszyć się nią z należytym szacunkiem. To właśnie zbiórki czy biwaki, które odbywają się zdala od zgiełku miasta są najbardziej atrakcyjne i efektywne. Nie rozprasza nas hałas ulic, chłoniemy zapachy, kolory i dźwięki , doświadczamy przygód, których nie dadzą nam żadne zajęcia w szkole czy kolonie w ośrodku wypoczynkowym. 
 
@@ -23,10 +27,6 @@ Poradnik, który właśnie czytacie, to zbiór  przemyśleń i doświadczeń, kt
 * inspirujące linki, materiały i publikacje, z których korzystaliśmy planując nasz obóz.   
 
 Choć w większości podajemy przykłady z organizacji obozu wędrownego, to z poradnika możecie korzystać niezależnie od metodyki, w której działacie i stylu pracy waszej jednostki. Wszystkie porady  są w gruncie rzeczy uniwersalne i można je dopasować do każdej formy zajęć i wypoczynku  w naturze. 
-
-
-![Wędrówka z plecakami](assets/images/image15.jpg){ loading=lazy }
-![Wędrówka z plecakami](images/image15.jpg)
 
 <!-- [wstecz](/Planowanie){ .md-button } -->
 [dalej  :fontawesome-solid-arrow-right:](/Planowanie){ .md-button .md-button--primary }

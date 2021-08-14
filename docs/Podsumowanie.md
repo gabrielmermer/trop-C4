@@ -10,17 +10,17 @@ Zachęcamy do kontaktu:
 
 ## Wspomniane oraz dodatkowe materiały i linki:
 
-**Ogólne:**
+### Ogólne
 
 O'Bannon, Allen et al. *Sztuka Wędrowania Z Plecakiem I Biwakowania W Terenie*. Sklep Podróżnika, 2012.
 
-**Leave No Trace:**
+### Leave No Trace
 
 [7 Zasad Leave No Trace, ZHP - Wydział Specjalności G*K](http://specjalnosci.zhp.pl/specjalnosci-harcerskie/ekologiczna/7-zasad-leave-no-trace/){target=_blank}
 
 [Protect The Outdoors - Leave No Trace Center For Outdoor Ethics](https://lnt.org/){target=_blank}
 
-**Planowanie trasy i podróż:**
+### Planowanie trasy i podróż
 
 [Policzmy swój ślad, czyli w jaki sposób podróżować ](https://post-turysta.pl/artykul/policzmy-swoj-slad){target=_blank}
 
@@ -38,11 +38,11 @@ O'Bannon, Allen et al. *Sztuka Wędrowania Z Plecakiem I Biwakowania W Terenie*
 
 [Kalkulator szlaków](https://www.szlaki.net.pl/kalkulator.php){target=_blank}
 
-**Jedzenie:**
+### Jedzenie
 
  [Performance Nutrition for Backpacking](https://www.youtube.com/watch?v=iqgayipoNWA){target=_blank} - filmik o planowaniu żywienia w czasie dłuższych wypraw z plecakiem
 
-**Ultralight:**
+### Ultralight
 
 [Lighterpack](https://lighterpack.com/welcome){target=_blank} to strona do tworzenia zestawień wagowych sprzętu.
 
